@@ -1,0 +1,15 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Dragon Ball - Edição Definitiva 1",
+        "price": "R$ 64,90",
+        "qtde": "12",
+        "icon": "<v-btn icon><v-icon>mdi-pencil</v-icon></v-btn><v-btn icon><v-icon>mdi-delete</v-icon></v-btn>"
+    }, {
+        "id": 2,
+        "name": "Monster Kanzenban 7",
+        "price": "R$ 79,90",
+        "qtde": "14",
+        "icon": "<v-btn icon><v-icon>mdi-pencil</v-icon></v-btn><v-btn icon><v-icon>mdi-delete</v-icon></v-btn>"
+    }]
+}
