@@ -122,8 +122,7 @@ export default {
         },
         save() {
               if (this.editedIndex > -1) {
-                //alteracao
-                //console.log("Item ID Teste: "+this.editedItem.id);
+                //alteracao                
                 axios
                   .put(
                     "http://localhost:3000/users/" + this.editedItem.id,
