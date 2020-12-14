@@ -1,0 +1,10 @@
+<template>
+    <h1>Página Inicial</h1>
+</template>
+<script>
+export default {
+    name: "hqsCrud",
+    data: () => ({}),
+    methods: {},
+};
+</script>
