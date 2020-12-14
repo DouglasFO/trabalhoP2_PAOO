@@ -96,7 +96,7 @@ export default {
                   id: 0,
                   name: "HQ/Mangá",
                   qtde: "0",
-                  price: "R$ 29,90",
+                  price: "R$ 00,00",
                 },
                 defaultItem: {
                   id: 0,
